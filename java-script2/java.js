@@ -7,4 +7,6 @@ Stabilire il vincitore, in base a chi fa il punteggio più alto.
 console.clear();
 
 let computer = Math.floor(Math.random() * 7);
+console.log(computer);
 let player = Math.floor(Math.random() * 7);
+console.log(player);
