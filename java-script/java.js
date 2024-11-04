@@ -6,3 +6,11 @@ Non è necessario provvedere alla validazione delle email */
 
 //prompt per chiedere email
 //creare array per le email
+
+const lista = [
+"pippo@gmail.com",
+"giovanni@gmail.com",
+"andrea@gmail.com",
+];
+
+let email = prompt("inserisci la tua email");
