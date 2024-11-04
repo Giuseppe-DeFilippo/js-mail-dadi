@@ -14,3 +14,9 @@ const lista = [
 ];
 
 let email = prompt("inserisci la tua email");
+if (lista.includes(email) ){
+console.log(email + " " + "l email è nella lista");
+
+} else  {
+    console.log("non sei in lista ");
+} 
