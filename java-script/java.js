@@ -6,6 +6,8 @@ Non è necessario provvedere alla validazione delle email */
 
 //prompt per chiedere email
 //creare array per le email
+console.clear();
+
 
 const lista = [
 "pippo@gmail.com",
